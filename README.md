@@ -18,4 +18,4 @@ Cab drivers are incentivised by a healthy growth in income. The **goal of this p
 This problem can be solved using a sound RL-based system for assisting cab drivers that can potentially retain and attract new cab drivers.Taking long-term profit as the goal, we propose a method based on reinforcement learning to optimize taxi driving strategies for profit maximization. This optimization problem is formulated as a Markov Decision Process.
 
 We will create the environment and an RL agent that learns to choose the best request. We also need to train an agent using vanilla Deep Q-learning (DQN) 
-![Architecture](attachment:https://github.com/jatinsharma7/DeepRL_CabDriverProfitOptimization/blob/main/image.png)
+![Architecture](https://github.com/jatinsharma7/DeepRL_CabDriverProfitOptimization/blob/main/image.png)
